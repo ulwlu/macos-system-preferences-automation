@@ -17,3 +17,5 @@ Look into macos.sh, and comment out something you don't want to use.
 - Macbook Pro 2017 15 inches
 
 Some options in MacOS except abobe may be missing because I don't have it.
+I don't take any responsibility, please read file before running.
+If not sure about something, ask on issue.
